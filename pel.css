@@ -1,0 +1,32 @@
+body{
+  width:50%;
+  padding-left: 15%;
+  padding-right: 15%;
+  margin: 30px;
+  height: 80%;
+  background:#A9D7E9;
+}
+h1 {
+  text-align: center;
+}
+form{
+  background-color: #F3F3F3;
+  border-radius:20px;
+  padding:50px;
+  padding:5%;
+  width:80%;
+}
+
+button {
+  border:1px #000000;
+  background-color:#6BA2CE;
+  color: #FFFFFF;
+  padding: 5px;
+  margin-left: 50%;
+}
+input{
+  padding: 5px;
+}
+div{
+  text-align:center;
+}
